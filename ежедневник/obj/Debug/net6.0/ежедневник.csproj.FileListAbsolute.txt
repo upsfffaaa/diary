@@ -1,0 +1,15 @@
+C:\Users\Fergan\Desktop\работы\с#\ежедневник\ежедневник\bin\Debug\net6.0\ежедневник.exe
+C:\Users\Fergan\Desktop\работы\с#\ежедневник\ежедневник\bin\Debug\net6.0\ежедневник.deps.json
+C:\Users\Fergan\Desktop\работы\с#\ежедневник\ежедневник\bin\Debug\net6.0\ежедневник.runtimeconfig.json
+C:\Users\Fergan\Desktop\работы\с#\ежедневник\ежедневник\bin\Debug\net6.0\ежедневник.dll
+C:\Users\Fergan\Desktop\работы\с#\ежедневник\ежедневник\bin\Debug\net6.0\ежедневник.pdb
+C:\Users\Fergan\Desktop\работы\с#\ежедневник\ежедневник\obj\Debug\net6.0\ежедневник.csproj.AssemblyReference.cache
+C:\Users\Fergan\Desktop\работы\с#\ежедневник\ежедневник\obj\Debug\net6.0\ежедневник.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fergan\Desktop\работы\с#\ежедневник\ежедневник\obj\Debug\net6.0\ежедневник.AssemblyInfoInputs.cache
+C:\Users\Fergan\Desktop\работы\с#\ежедневник\ежедневник\obj\Debug\net6.0\ежедневник.AssemblyInfo.cs
+C:\Users\Fergan\Desktop\работы\с#\ежедневник\ежедневник\obj\Debug\net6.0\ежедневник.csproj.CoreCompileInputs.cache
+C:\Users\Fergan\Desktop\работы\с#\ежедневник\ежедневник\obj\Debug\net6.0\ежедневник.dll
+C:\Users\Fergan\Desktop\работы\с#\ежедневник\ежедневник\obj\Debug\net6.0\refint\ежедневник.dll
+C:\Users\Fergan\Desktop\работы\с#\ежедневник\ежедневник\obj\Debug\net6.0\ежедневник.pdb
+C:\Users\Fergan\Desktop\работы\с#\ежедневник\ежедневник\obj\Debug\net6.0\ежедневник.genruntimeconfig.cache
+C:\Users\Fergan\Desktop\работы\с#\ежедневник\ежедневник\obj\Debug\net6.0\ref\ежедневник.dll
