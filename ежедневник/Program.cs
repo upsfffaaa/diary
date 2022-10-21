@@ -32,8 +32,8 @@ namespace ежедневник
 
 				Console.Clear();
 				Menu();
-				zapis();
 				zametki();
+				zapis();
 				Console.SetCursorPosition(0, position);
 				Console.WriteLine("->");
 			}
@@ -120,7 +120,7 @@ namespace ежедневник
 					Console.WriteLine("Введите пометку времени заметки:");
 					TimeList.Add(Console.ReadLine());
 					
-					Console.WriteLine("Заметка создана\nНажмите Esc для выхода или Enter для добавления ещё одной заметки");
+					Console.WriteLine("Заметка создана\nНажмите любую клавишу для выхода или Enter для добавления ещё одной заметки");
 					kol += 1;
 				}
 			}
